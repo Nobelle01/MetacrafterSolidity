@@ -32,4 +32,4 @@ If you have any questions or need assistance, please open an issue in this repos
 
 ## License
 
-This project is licensed under the @Nobelle01 License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
