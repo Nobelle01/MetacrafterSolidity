@@ -1,4 +1,4 @@
-# Project Title
+# My Token
 
 ## Overview
 This project is a Solidity smart contract for a token called "MyToken." It allows for the creation, minting, and burning of tokens.
